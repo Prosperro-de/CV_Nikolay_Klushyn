@@ -1,0 +1,228 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background: #ffffff;
+    display: flex;
+ 
+ }
+
+body {
+    background: #f5f7fa;
+    padding: 20px;
+    font-family: Montserrat;
+} 
+.sidebar {
+    width: 370px;
+    background: #1e2939
+    padding-box 40px; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.img {
+    width: 370px;
+}
+.main-container {
+     padding-left: 90px;
+     padding-top: 110px;
+     padding-bottom: 100px;
+     padding-right: 90px ;
+}
+.contacts {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.tech-skills {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+ 
+}
+.soft-skills {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    
+}
+.list-sb {
+    margin-left: 60px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+   
+    
+}
+.contacts-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.contacts-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #707781;
+
+}
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;   
+    color: #ffffff;
+    margin-right: 10px;   
+}
+.list-sb-text {
+    color: #ffffff;
+}
+.profession {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 25px;
+    margin-left: 90px;
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-bottom: 25px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.text-about-me {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    color: #595959;
+    margin-bottom: 65px;
+    margin-left: 90px;
+    margin-right: 230px;
+}
+.projects {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 90px;
+   
+}
+.jobs-links-all{
+    margin-left: 105px;
+    margin-right: 90px;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.jobs-link {
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    color: #595959;
+}
+.dots {
+    font-weight: 300;
+    line-height: 1px; 
+    
+    color: #a8a8a8;
+}
+.technology {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+.Work-Exp {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 90px;
+    margin-top: 55px;
+}
+.work-place {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.work-place-color {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+    margin-top: 20px;
+    color: #ff6b08;
+}
+.work-place-time {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.36px;
+    color: #a8a8a8;
+    margin-top: 15px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+
+}
+.work-place-time-L {
+    color: #000000;
+}
+.work-place-text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    color: #595959;
+    margin-left: 105px;
+    margin-right: 195px;
+    margin-bottom: 10px;
+}
+.work_place_1 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: #ff6b08;
+}
+.education_profession {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.education-description {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    margin-left: 90px;
+    margin-top: 5px;
+}
